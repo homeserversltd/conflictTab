@@ -1,10 +1,10 @@
 {
-  "name": "conflict",
+  "name": "conflictTab",
   "version": "1.0.0",
   "files": [
     {
       "source": "frontend/index.tsx",
-      "target": "/var/www/homeserver/src/tablets/conflict/index.tsx",
+      "target": "/var/www/homeserver/src/tablets/conflictTab/index.tsx",
       "type": "copy",
       "identifier": null,
       "description": "Main React entry point for the conflict tab"

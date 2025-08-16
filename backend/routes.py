@@ -6,13 +6,13 @@ Minimal blueprint for testing cross-tab validation
 from flask import Blueprint, jsonify
 
 # Create blueprint for conflict tab
-bp = Blueprint('conflict', __name__, url_prefix='/api/conflict')
+bp = Blueprint('conflictTab', __name__, url_prefix='/api/conflict')
 
 @bp.route('/status')
 def status():
     """Basic status endpoint for conflict tab"""
     return jsonify({
         'status': 'active',
-        'tab': 'conflict',
+        'tab': 'conflictTab',
         'message': 'Conflict tab is running'
     }) 

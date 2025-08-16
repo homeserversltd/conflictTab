@@ -1,5 +1,5 @@
 {
-  "name": "conflict",
+  "name": "conflictTab",
   "version": "1.0.1",
   "files": {
     "config": "homeserver.patch.json",
