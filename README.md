@@ -1,5 +1,7 @@
 # ConflictTab - HOMESERVER Premium Tab Conflict Testing Framework
 
+**Disclaimer:** This software is provided in pre-release form "as is" and "as available," without warranty of any kind. It may not operate correctly, may corrupt or delete data, and is not intended for production use. You use it at your own risk.
+
 > **⚠️ WARNING: This tab is for testing purposes only and should NEVER be installed in production environments.**
 
 ## Overview
